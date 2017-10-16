@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>Images/MessagestitlebarLeft.png</file>
+        <file>Images/ParameterListtitlebarLeft.png</file>
+        <file>Images/ProgresstitlebarLeft.png</file>
+        <file>Images/ProjecttitlebarLeft.png</file>
+        <file>Images/qt.png</file>
+        <file>Images/titlebarCenter.png</file>
+        <file>Images/titlebarLeft.png</file>
+        <file>Images/titlebarLeft1.png</file>
+        <file>Images/titlebarRight.png</file>
+        <file>Images/cut.png</file>
+        <file>Images/open.png</file>
+        <file>Images/paste.png</file>
+        <file>Images/save.png</file>
+        <file>Images/folder_close.png</file>
+        <file>Images/folder_open.png</file>
+        <file>Images/delete.png</file>
+        <file>Images/Add_file.png</file>
+        <file>Images/FolderClose.png</file>
+        <file>Images/FolderOpen.png</file>
+        <file>Images/new.png</file>
+        <file>Images/NewFile.png</file>
+        <file>Images/AddFolder.png</file>
+        <file>Images/table.png</file>
+        <file>Images/logo.png</file>
+        <file>Images/Figure.png</file>
+        <file>Images/Run.png</file>
+        <file>Images/Check.png</file>
+        <file>Images/WarningMsg.png</file>
+        <file>Images/ErrorMsg.png</file>
+        <file>Images/NormalMsg.png</file>
+        <file>Images/TextFileLogo.png</file>
+        <file>Images/TextFileLogo1.png</file>
+        <file>Images/DropArrow.png</file>
+        <file>Images/Drop_Arrow.png</file>
+        <file>Images/DropArrow1.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+ROOT= I:/Projects/Qt/MyXGBoost2
+LIBS += -L$${ROOT}/Libs -lxgboost
+LIBS += -L$${ROOT}/Libs -lrabit
+LIBS += -L$${ROOT}/Libs -ldmlccore
+INCLUDEPATH += $${ROOT}/includes/xgboost
+QMAKE_CXXFLAGS += /openmp
